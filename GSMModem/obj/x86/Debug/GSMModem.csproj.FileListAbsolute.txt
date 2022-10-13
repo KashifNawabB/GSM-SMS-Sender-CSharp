@@ -1,0 +1,46 @@
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C-Sharp Corner\Source Code\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Program Files\NetMeeting\Received Files\GSMModemApplication\GSMModem\GSMModem\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FL CSharp\GSMModem\GSMModem\bin\Debug\GSMModem.exe.config
+F:\FL CSharp\GSMModem\GSMModem\bin\Debug\GSMModem.exe
+F:\FL CSharp\GSMModem\GSMModem\bin\Debug\GSMModem.pdb
+F:\FL CSharp\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csprojAssemblyReference.cache
+F:\FL CSharp\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+F:\FL CSharp\GSMModem\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+F:\FL CSharp\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.cache
+F:\FL CSharp\GSMModem\GSMModem\obj\x86\Debug\GSMModem.csproj.CopyComplete
+F:\FL CSharp\GSMModem\GSMModem\obj\x86\Debug\GSMModem.exe
+F:\FL CSharp\GSMModem\GSMModem\obj\x86\Debug\GSMModem.pdb
+F:\FL CSharp\Sms Sender\GSMModem\bin\Debug\GSMModem.exe.config
+F:\FL CSharp\Sms Sender\GSMModem\bin\Debug\GSMModem.exe
+F:\FL CSharp\Sms Sender\GSMModem\bin\Debug\GSMModem.pdb
+F:\FL CSharp\Sms Sender\GSMModem\obj\x86\Debug\GSMModem.csprojAssemblyReference.cache
+F:\FL CSharp\Sms Sender\GSMModem\obj\x86\Debug\GSMModem.Form1.resources
+F:\FL CSharp\Sms Sender\GSMModem\obj\x86\Debug\GSMModem.Properties.Resources.resources
+F:\FL CSharp\Sms Sender\GSMModem\obj\x86\Debug\GSMModem.csproj.GenerateResource.cache
+F:\FL CSharp\Sms Sender\GSMModem\obj\x86\Debug\GSMModem.csproj.CopyComplete
+F:\FL CSharp\Sms Sender\GSMModem\obj\x86\Debug\GSMModem.exe
+F:\FL CSharp\Sms Sender\GSMModem\obj\x86\Debug\GSMModem.pdb
